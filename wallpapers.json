@@ -1,28 +1,34 @@
 {
    "wallpapers": [
       {
-         "author": "Toton",
-         "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
-         "name": "East Branch",
-         "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+         "author": "The Gosa",
+         "url": "https://raw.githubusercontent.com/thegosa/wallpaperistexture/master/leather%20black.jpg",
+         "name": "Leather black",
+         "thumbnail": "https://raw.githubusercontent.com/thegosa/wallpaperistexture/master/leather%20black.jpg"
+      },    
+      {
+         "author": "The Gosa",
+         "url": "https://raw.githubusercontent.com/thegosa/wallpaperistexture/master/leather%20green.jpg",
+         "name": "Leather green",
+         "thumbnail": "https://raw.githubusercontent.com/thegosa/wallpaperistexture/master/leather%20green.jpg"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
-         "name": "Heads Up",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+         "author": "The Gosa",
+         "url": "https://raw.githubusercontent.com/thegosa/wallpaperistexture/master/leather%20red.jpg",
+         "name": "Leather red",
+         "thumbnail": "https://raw.githubusercontent.com/thegosa/wallpaperistexture/master/leather%20red.jpg"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-         "name":" Flamingos",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+         "author": "The Gosa",
+         "url": "https://raw.githubusercontent.com/thegosa/wallpaperistexture/master/leather%20retro.jpg",
+         "name": "Leather retro",
+         "thumbnail": "https://raw.githubusercontent.com/thegosa/wallpaperistexture/master/leather%20retro.jpg"
       },
       {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
-         "name": "Forest",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
-      }
+         "author": "The Gosa",
+         "url": "https://raw.githubusercontent.com/thegosa/wallpaperistexture/master/leather%20yellow.jpg",
+         "name": "Leather retro",
+         "thumbnail": "https://raw.githubusercontent.com/thegosa/wallpaperistexture/master/leather%20yellow.jpg"
+      },
    ]
 }
