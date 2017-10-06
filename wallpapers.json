@@ -23,12 +23,6 @@
          "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
          "name": "Forest",
          "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
-      },
-      {
-         "author": "Tom Wellington",
-         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
-         "name": "Tree Farm",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
-      },
+      }
    ]
 }
